@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react"
-import SearchBar from "../components/SearchBar"
-import Grid from "../components/Grid"
-import endPoints from "../services/endpoints"
+import SearchBar from "@/components/SearchBar"
+import Grid from "@/components/Grid"
+import endPoints from "@/services/endpoints"
 import axios from "axios"
 
 function Home() {
