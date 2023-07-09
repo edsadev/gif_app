@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import socialMedia from "@/constants/socialMedia"
+import socialMedia from "../constants/socialMedia"
 
 function Footer() {
   return (
